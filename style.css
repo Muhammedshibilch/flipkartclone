@@ -1,0 +1,264 @@
+
+
+
+
+
+.nn{
+    list-style: none;
+}
+#kk{
+    color: blue;
+}
+.yy{
+    color: black;
+    margin-left: 80px;
+    text-decoration: none;
+}
+.cont{
+    width: 100%;
+    height: 200px;
+    background-color: whites;
+    margin: 10px;
+}
+.jj{
+    width: 100px;
+    height: 150px;
+    /* border: 1px solid black; */
+    display: inline-flex;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.mm{
+    margin-top: 160px;
+    margin-left: -100px;
+    font-weight: 600;
+}
+.mmm{
+    margin-top: 160px;
+    margin-left: -70px;
+    font-weight: 600;
+}
+.jl{
+    width: 100%;
+    height: 400px;
+    /* background-color: rgb(51, 175, 175); */
+    margin: 20px;
+
+}
+.kkk{
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+.lll{
+    width: 200px;
+    height: 290px;
+    border: 1px solid grey;
+    display: inline-flex;
+    margin-top: 10px;
+    margin-left: 10px;
+
+
+}
+.oo{
+    margin-top: 200px;
+    margin-left: -140px;
+}
+.ttt{
+    margin-left: -5px;
+    margin-top: 10px;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}
+.llll{
+    float: right;
+    margin-top: -380px;
+}
+.hhh{
+    width: 100%;
+    height: 390px;
+    background-color: white;
+}
+.kkkk{
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 10px;
+    font-size: 1.5rem;
+}
+.yyyy{
+    width: 200px;
+    height: 290px;
+    border: 1px solid grey;
+    display: inline-flex;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.yyyy:hover{
+    background-color: antiquewhite;
+}
+.jhk{
+    width: 200px;
+    height: 200px;
+    display: inline-flex;
+    margin: 10px;
+    margin-top: 10px;
+}
+.jhk:hover{
+    border: 1px solid black;
+}
+.msn{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(44, 35, 35);
+    margin-top: 30px;
+}
+.bvb{
+    color: grey;
+    margin-left: 30px;
+}
+.xz{
+    color: white;
+    list-style: none;
+}
+.kj{
+    color: white;
+    text-decoration: none;
+}
+.kj:hover{
+    text-decoration: underline;
+}
+.bvbs{
+    margin-left: 250px;
+    margin-top: -198px;
+    color: grey;
+}
+.xzx{
+    color: white;
+    list-style: none;
+    margin-left: 220px;
+}
+.bvbss{
+    margin-left: 500px;
+    margin-top: -124px;
+    color: grey;
+
+}
+.xzxz{
+    color: white;
+    list-style: none;
+    margin-left:470px ;
+}
+.bvbsss{
+    color: grey;
+    margin-left: 650px;
+    margin-top: -176px;
+}
+.xzxzx{
+    color: white;
+    list-style: none;
+    margin-left: 620px;
+}
+@media (max-width: 768px) {
+    .cont {
+        padding: 5px;
+    }
+
+    .jj {
+        width: 100%; /* Full width on smaller screens */
+        margin: 5px 0; /* Adjust margin for better spacing */
+    }
+
+    .mm, .mmm {
+        margin: 10px 0; /* More margin for text visibility on small screens */
+        margin-top: 70px;
+    }
+    .you{
+        margin-top: 1300px;
+    }
+    .hai{
+        width: 100px;
+    }
+    .lll{
+        display: flex;
+        width: 70%;
+        margin-left:50px;
+    }
+    .oo{
+        margin-left: -200px;
+    }
+    .llll{
+        margin-top: 30px;
+        float: left;
+        }
+    .kkkk{
+        margin-top: 300px;
+        margin-left: 70px;
+    }
+    .hhh{
+        margin-top: 1400px;
+    }
+    .yyyy{
+        display: flex;
+        width: 70%;
+        margin-left: 50px;
+    }
+   .aaaa{
+    width: 50%;
+   }
+   .fr{
+margin-left: 10px;
+   }
+   .bvb{
+    font-size: small;
+    margin-left: 50px ;
+   }
+   .xz{
+    font-size: small;
+    margin-left: 10px;
+   }
+   .bvbs{
+    font-size: small;
+    margin-top: -150px;
+   }
+   .xzx{
+    font-size: small;
+   }
+   .bvbss{
+    font-size: small;
+    margin-left: 250px;
+    margin-top: 100px;
+   }
+   .xzxz{
+font-size: small;
+margin-left: 200px;
+   }
+   .bvbsss{
+font-size: small;
+margin-left: 500px;
+   }
+   .xzxzx{
+font-size: small;
+   }
+   .msn{
+    width: 100%;
+   }
+}
+ 
+
+
+@media (max-width: 480px) {
+    .jj {
+        width: 100%; /* Full width on very small screens */
+        margin: 5px 0; /* Adjust margin for better spacing */
+    }
+
+    .mm, .mmm {
+        font-size: 14px; /* Reduce font size for very small screens */
+    }
+    .you{
+        margin-top: 1300px;
+    }
+}
